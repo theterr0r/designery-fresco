@@ -2,7 +2,7 @@ import { Brush } from "lucide-react";
 
 export const Hero = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-primary/10 to-secondary">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-primary/5 to-secondary">
       <div className="container px-4 mx-auto">
         <div className="max-w-4xl mx-auto text-center">
           <div className="animate-fade-up">
